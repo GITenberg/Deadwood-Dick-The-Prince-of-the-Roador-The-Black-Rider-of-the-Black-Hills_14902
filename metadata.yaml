@@ -1,0 +1,31 @@
+_repo: Deadwood-Dick-The-Prince-of-the-Roador-The-Black-Rider-of-the-Black-Hills_14902
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wheeler, Edward L. (Edward Lytton)
+    aliases:
+    - Wheeler, E. L. (Edward Lytton)
+    - Wheeler, Edward Lytton
+    birthdate: 1854
+    deathdate: 1885
+    gutenberg_agent_id: '5741'
+    url: http://www.gutenberg.org/2009/agents/5741
+description: ''
+gutenberg_issued: '2005-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14902'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dime novels'
+- !lcc 'PS'
+- !lcsh 'Western stories'
+- !lcsh 'Fiction'
+title: Deadwood Dick, the Prince of the Road; or, The Black Rider of the Black Hills
+url: http://www.gutenberg.org/ebooks/14902
